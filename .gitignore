@@ -1,0 +1,5 @@
+# binaries built by src/Makefile
+src/predict
+src/predict_extra_credit
+src/test_example
+src/compare
