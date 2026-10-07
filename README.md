@@ -12,7 +12,8 @@ Files
 * run -- original script (needs csh and dc)
 * run.sh, compare.sh -- bash scripts for all the traces
 * results.txt, comparison.txt -- output of `./run.sh traces` and `./compare.sh traces`
-* REPORT.md -- report
+* changes.diff -- every change against the provided code (unified diff)
+* the report is the PDF submitted with this code
 
 How to build and run
 

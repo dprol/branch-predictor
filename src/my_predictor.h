@@ -83,7 +83,7 @@ public:
         // allocation policy of the global predictor:
         // alloc_on_any_miss = false: a new entry is allocated only when the
         //   branch was mispredicted, with its counter set to the weak state
-        //   of the actual outcome (Pentium M behavior, the default).
+        //   of the actual outcome (the default).
         // alloc_on_any_miss = true: an entry is allocated on every global
         //   miss and it inherits the counter of the entry it replaces (the
         //   simplified scheme of the worked example in the handout).
